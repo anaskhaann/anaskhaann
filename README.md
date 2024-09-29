@@ -1,16 +1,18 @@
-## Hi, I am MOHD ANAS KHAN
+<h2 align="center"> Hello I am Mohd Anas Khan</h2>
+
+<br />
+
+I'm a self-taught passionate developer from India 🇮🇳
+
+## 📊 GitHub Stats
+![Anas GitHub stats](https://github-readme-stats.vercel.app/api?username=khan-anas29&show_icons=true&theme=tokyonight&hide=issues,contribs&include_all_commits=true&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khan-anas29&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 📊 My Stats
-![Anas GitHub stats](https://github-readme-stats.vercel.app/api?username=khan-anas29&show_icons=true&theme=tokyonight&hide=issues,contribs&include_all_commits=true&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khan-anas29&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-
-## 🌐 Reach To Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khan._.anas)
+## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-anas-khan-0a4114205/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khananas29) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/khannanas)
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
