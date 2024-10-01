@@ -5,7 +5,7 @@
 I'm a self-taught passionate developer from India 🇮🇳
 
 ## 📊 GitHub Stats
-![Anas GitHub stats](https://github-readme-stats.vercel.app/api?username=khan-anas29&show_icons=true&theme=tokyonight&hide=issues,contribs&include_all_commits=true&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Anas GitHub stats](https://github-readme-stats.vercel.app/api?username=khan-anas29&show_icons=true&theme=tokyonight&hide=issues&include_all_commits=true&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khan-anas29&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact)
 
 
