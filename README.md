@@ -22,9 +22,13 @@ I'm a self-taught passionate developer from India 🇮🇳
   <a href="https://www.linkedin.com/in/mohd-anas-khan-0a4114205/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://x.com/khananas29">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  
   <a href="https://t.me/khannanas">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
