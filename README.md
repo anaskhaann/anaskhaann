@@ -1,5 +1,10 @@
-<!-- text Animation code for Name -->
+<!--Profile View Count -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=khan-anas29&color=blueviolet" alt="Profile Views" />
+</div>
 
+
+<!-- text Animation code for Name -->
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=AD42F7&center=true&width=435&lines=%F0%9F%91%8B+Hello+There+;I+am+Mohd+Anas+Khan)](https://git.io/typing-svg) -->
 
 
