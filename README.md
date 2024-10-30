@@ -1,6 +1,6 @@
 <!--Profile View Count -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=khan-anas29&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=anasskhannn&color=blueviolet" alt="Profile Views" />
 </div>
 
 
@@ -17,8 +17,8 @@
 I'm a self-taught passionate developer from India 🇮🇳
 
 ## 📊 GitHub Stats
-![Anas GitHub stats](https://github-readme-stats.vercel.app/api?username=khan-anas29&show_icons=true&theme=tokyonight&hide=issues&include_all_commits=true&count_private=true&cache_seconds=28800) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khan-anas29&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact)
+![Anas GitHub stats](https://github-readme-stats.vercel.app/api?username=anasskhannn&show_icons=true&theme=tokyonight&hide=issues&include_all_commits=true&count_private=true&cache_seconds=28800) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anasskhannn&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 🌐 Connect With Me
