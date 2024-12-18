@@ -78,7 +78,7 @@ I'm a self-taught passionate developer from India 🇮🇳
 
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
 
-  <img src="https://img.shields.io/badge/Javascript-1572B6?logo=javascript&logoColor=white&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
 
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
 
