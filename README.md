@@ -38,7 +38,7 @@ I'm a self-taught passionate developer from India 🇮🇳
 ###
 
 <!-- Side Image -->
-<img align="right" height="150" src="img/side-img.gif"  />
+<img align="right" height="125" src="img/side-img.gif"  />
 
 ###
 
@@ -70,7 +70,6 @@ I'm a self-taught passionate developer from India 🇮🇳
 
 ###
 
-<br clear="both">
 
 <div align="center">
   
