@@ -20,7 +20,7 @@
 
 <!-- - 🎥 I create coding tutorial videos on YouTube at [Channel Name](https://channel link) -->
 
-- 🌱 I’m currently learning **Docker, Django, Gen AI, LLM's.**
+- 🌱 I’m currently learning **PyTorch, Docker, Django, Gen AI, LLM's.**
 
 <!-- - 👨‍💻 All of my projects are available at [Website Name](Website Link) -->
 
