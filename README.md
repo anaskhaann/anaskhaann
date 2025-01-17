@@ -13,16 +13,39 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=AD42F7&center=true&width=435&lines=%F0%9F%91%8B+Hello+There+;I+am+Mohd+Anas+Khan" alt="Typing SVG" /></a>
+<hr>
+
+<!-- Current Info -->
+- 🔭 I’m currently working on **Chat With DataBase Project**
+
+<!-- - 🎥 I create coding tutorial videos on YouTube at [Channel Name](https://channel link) -->
+
+- 🌱 I’m currently learning **Docker, Django, Gen AI, LLM's.**
+
+<!-- - 👨‍💻 All of my projects are available at [Website Name](Website Link) -->
+
+- 💬 Ask me about **Python, SQL, Git/Github, MongoDB Etc.**
+
+- 📫 How to reach me **From the Below Links 👇**
 
 
+<hr>
+<!-- Summary -->
+<div align="center">
 
-I'm a self-taught passionate developer from India 🇮🇳
+I'm a self-taught passionate developer from Mumbai, India 🇮🇳
 
-###
+</div>
+
+<p align="center">
+  <samp>
+   A highly motivated AI and Data Science student with hands-on experience in machine learning and data analysis. Skilled in Python and familiar with key frameworks like TensorFlow. Passionate about building AI-driven solutions and solving real-world problems. Strong in team leadership, collaboration, and optimizing project performance. Seeking to leverage my technical expertise and problem-solving skills to contribute to impactful projects.
+  </samp>
+</p>
+
+<hr>
 
 <h3 align="left">📊 GitHub Stats</h3>
-
-###
 
 
 <div align="center">
@@ -35,7 +58,8 @@ I'm a self-taught passionate developer from India 🇮🇳
 
 </div>
 
-###
+<hr>
+
 
 <!-- Side Image -->
 <img align="right" height="125" src="img/side-img.gif"  />
