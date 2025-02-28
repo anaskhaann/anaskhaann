@@ -3,17 +3,23 @@
   <img src="https://komarev.com/ghpvc/?username=anasskhannn&color=blueviolet" alt="Profile Views" />
 </div>
 
-
 <br clear="both">
 
 <!-- Banner Image -->
 <div align="center">
-  <img height="200" width="100%" src="img/banner-img.gif"/>
+  <img src="img/andy.gif"/>
 </div>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=AD42F7&center=true&width=435&lines=%F0%9F%91%8B+Hello+There+;I+am+Mohd+Anas+Khan" alt="Typing SVG" /></a>
-<hr>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&duration=3000&pause=500&color=AD42F7&center=true&width=435&height=50&lines=%F0%9F%91%8B+Hello+There;I+am+Mohd+Anas+Khan" alt="Typing SVG" />
+  </a>
+  <hr>
+</div>
+
+
+
 
 <!-- Current Info -->
 - 🔭 I’m currently working on **Chat With DataBase using Natural Language**
@@ -24,9 +30,9 @@
 
 <!-- - 👨‍💻 All of my projects are available at [Website Name](Website Link) -->
 
-- 💬 Ask me about **Python, SQL, Git/Github, MongoDB Etc.**
+- 💬 Ask me about **Python, Git/Github Etc.**
 
-- 📫 How to reach me **From the Below Links 👇**
+<!-- - 📫 How to reach me **From the Below Links 👇** -->
 
 
 <hr>
@@ -97,26 +103,6 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
 
 <div align="center">
   
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
-
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
-
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="30" alt="sqlite logo"  />
-
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="30" alt="jupyter logo"  />
-
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30" alt="flask logo"  />
-
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mongodb,mysql,sqlite,flask,github,git&perline=5" />
 
 </div>
