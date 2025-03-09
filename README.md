@@ -26,7 +26,7 @@
 
 <!-- - 🎥 I create coding tutorial videos on YouTube at [Channel Name](https://channel link) -->
 
-- 🌱 I’m currently learning **PyTorch, Docker, FastAPI, Gen AI, LLM's.**
+- 🌱 I’m currently learning **PyTorch, FastAPI, Gen AI, LLM's.**
 
 <!-- - 👨‍💻 All of my projects are available at [Website Name](Website Link) -->
 
@@ -103,6 +103,6 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mongodb,mysql,sqlite,flask,github,git&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mongodb,mysql,sqlite,flask,github,git,docker&perline=6" />
 
 </div>
