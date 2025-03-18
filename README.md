@@ -103,6 +103,6 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mongodb,mysql,sqlite,flask,github,git,docker&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mongodb,mysql,sqlite,flask,github,git,docker,linux&perline=6" />
 
 </div>
