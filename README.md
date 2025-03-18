@@ -45,7 +45,7 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
 
 <p align="center">
   <samp>
-   A mission-driven AI and Data Science student with hands-on experience in machine learning and data analysis. Skilled in Python and familiar with frameworks like TensorFlow. A self-starter and great team player, passionate about building AI-driven solutions to solve real-world problems. I dream big, start small, and move fast, leveraging my technical expertise and problem-solving skills to contribute to impactful projects.
+   A mission-driven Computer Science Engineer with Specialization in AI and Data Science with hands-on experience in machine learning and data analysis. Skilled in Python and familiar with frameworks like TensorFlow. A self-starter and great team player, passionate about building AI-driven solutions to solve real-world problems. I dream big, start small, and move fast, leveraging my technical expertise and problem-solving skills to contribute to impactful projects.
   </samp>
 </p>
 
