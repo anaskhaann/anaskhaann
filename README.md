@@ -1,6 +1,6 @@
 <!--Profile View Count -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anasskhannn&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=anaskhaann&color=blueviolet" alt="Profile Views" />
 </div>
 
 <br clear="both">
@@ -18,10 +18,8 @@
   <hr>
 </div>
 
-
-
-
 <!-- Current Info -->
+
 - 🔭 I’m currently working on **Chat With DataBase using Natural Language**
 
 <!-- - 🎥 I create coding tutorial videos on YouTube at [Channel Name](https://channel link) -->
@@ -33,7 +31,6 @@
 - 💬 Ask me about **Python, Git/Github Etc.**
 
 <!-- - 📫 How to reach me **From the Below Links 👇** -->
-
 
 <hr>
 <!-- Summary -->
@@ -53,19 +50,17 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-
 <div align="center">
 
   <!-- Github Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=anasskhannn&hide_title=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=tokyonight&hide_border=true&hide=issues&cache_seconds=43200" height="145" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anaskhaann&hide_title=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=tokyonight&hide_border=true&hide=issues&cache_seconds=43200" height="145" alt="stats graph"/>
 
   <!-- Github Language Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anasskhannn&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true&custom_title=I%20Code%20In" height="145" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anaskhaann&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true&custom_title=I%20Code%20In" height="145" alt="languages graph"/>
 
 </div>
 
 <hr>
-
 
 <!-- Side Image -->
 <img align="right" height="125" src="img/side-img.gif"  />
@@ -99,7 +94,6 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
 <h3 align="left">💻 Tech Stack</h3>
 
 ###
-
 
 <div align="center">
   
