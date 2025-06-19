@@ -42,7 +42,11 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
 
 <p align="center">
   <samp>
-   A mission-driven Computer Science Engineer with Specialization in AI and Data Science with hands-on experience in machine learning and data analysis. Skilled in Python. A self-starter and great team player, passionate about building AI-driven solutions to solve real-world problems. I dream big, start small, and move fast, leveraging my technical expertise and problem-solving skills to contribute to impactful projects.
+    A mission-driven Computer Science Engineer, specializing in Artificial Intelligence and Data Science, with hands-on experience in
+    machine learning, data analysis, and Python development. A self-starter and collaborative team player, passionate about building
+    solutions that address real-world problems. Known for taking initiative, learning quickly, and consistently delivering results. I
+    believe in dreaming big, starting small, and moving fast, and I bring a strong commitment to continuous learning and personal
+    growth. I may not know everything, but I have the drive and resourcefulness to figure things out and get things done.
   </samp>
 </p>
 
