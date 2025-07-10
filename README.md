@@ -20,7 +20,7 @@
 
 <!-- Current Info -->
 
-- 🔭 I’m currently working on **Chat With DataBase using Natural Language**
+- 🔭 I’m currently working on **My Portfolio Website**
 
 <!-- - 🎥 I create coding tutorial videos on YouTube at [Channel Name](https://channel link) -->
 
@@ -28,7 +28,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [Website Name](Website Link) -->
 
-- 💬 Ask me about **Python, Git/Github Etc.**
+- 💬 Ask me about **Python,SQL, Git/Github Etc.**
 
 <!-- - 📫 How to reach me **From the Below Links 👇** -->
 
