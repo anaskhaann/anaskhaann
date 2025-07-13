@@ -18,6 +18,13 @@
   <hr>
 </div>
 
+<!-- Summary -->
+<div align="center">
+
+I'm a self-taught passionate developer from Mumbai, India 🇮🇳
+
+</div>
+
 <!-- Current Info -->
 
 - 🔭 I’m currently working on **My Portfolio Website**
@@ -29,26 +36,6 @@
 <!-- - 👨‍💻 All of my projects are available at [Website Name](Website Link) -->
 
 - 💬 Ask me about **Python,SQL, Git/Github Etc.**
-
-<!-- - 📫 How to reach me **From the Below Links 👇** -->
-
-<hr>
-<!-- Summary -->
-<div align="center">
-
-I'm a self-taught passionate developer from Mumbai, India 🇮🇳
-
-</div>
-
-<p align="center">
-  <samp>
-    A mission-driven Computer Science Engineer, specializing in Artificial Intelligence and Data Science, with hands-on experience in
-    machine learning, data analysis, and Python development. A self-starter and collaborative team player, passionate about building
-    solutions that address real-world problems. Known for taking initiative, learning quickly, and consistently delivering results. I
-    believe in dreaming big, starting small, and moving fast, and I bring a strong commitment to continuous learning and personal
-    growth. I may not know everything, but I have the drive and resourcefulness to figure things out and get things done.
-  </samp>
-</p>
 
 <hr>
 
@@ -88,7 +75,7 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
   </a>
 
   <!-- Telegram -->
-  <a href="https://t.me/khannanas" target="_blank">
+  <a href="https://t.me/anaskhaann" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
