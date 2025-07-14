@@ -27,13 +27,13 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
 
 <!-- Current Info -->
 
-- 🔭 I’m currently working on **My Portfolio Website**
+- 🔭 I’m currently looking for a project to work on.
 
 <!-- - 🎥 I create coding tutorial videos on YouTube at [Channel Name](https://channel link) -->
 
 - 🌱 I’m currently learning **PyTorch, FastAPI, Gen AI, LLM's.**
 
-<!-- - 👨‍💻 All of my projects are available at [Website Name](Website Link) -->
+- 👨‍💻 All of my projects are available @ [Anas Khan](https://anaskhaann.vercel.app/)
 
 - 💬 Ask me about **Python,SQL, Git/Github Etc.**
 
@@ -44,7 +44,7 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
 <div align="center">
 
   <!-- Github Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=anaskhaann&hide_title=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=tokyonight&hide_border=true&hide=issues&cache_seconds=43200" height="145" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anaskhaann&hide_title=true&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&cache_seconds=43200" height="145" alt="stats graph"/>
 
   <!-- Github Language Stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anaskhaann&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true&custom_title=I%20Code%20In" height="145" alt="languages graph"/>
