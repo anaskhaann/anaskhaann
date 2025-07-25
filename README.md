@@ -33,7 +33,7 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
 
 - 🌱 I’m currently learning **PyTorch, FastAPI, Gen AI, LLM's.**
 
-- 👨‍💻 All of my projects are available @ [Anas Khan](https://anaskhaann.vercel.app/)
+- 👨‍💻 Know More About Me @ [anaskhaann.vercel.app](https://anaskhaann.vercel.app/)
 
 - 💬 Ask me about **Python,SQL, Git/Github Etc.**
 
