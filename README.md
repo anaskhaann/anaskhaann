@@ -27,15 +27,15 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
 
 <!-- Current Info -->
 
-- 🔭 I’m currently looking for a project to work on.
+- 🔭 Currently Exploring for a project idea to work on.
 
 <!-- - 🎥 I create coding tutorial videos on YouTube at [Channel Name](https://channel link) -->
 
-- 🌱 I’m currently learning **PyTorch, FastAPI, Gen AI, LLM's.**
+- 🌱 I’m currently learning **Gen AI, Agentic AI, LLM's.**
 
 - 👨‍💻 Know More About Me @ [anaskhaann.vercel.app](https://anaskhaann.vercel.app/)
 
-- 💬 Ask me about **Python,SQL, Git/Github Etc.**
+- 💬 Ask me about **Python, SQL, Git/Github Etc.**
 
 <hr>
 
@@ -56,11 +56,7 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
 <!-- Side Image -->
 <img align="right" height="125" src="img/side-img.gif"  />
 
-###
-
 <h3 align="left">🌐 Connect With Me</h3>
-
-###
 
 <div align="left">
 
@@ -80,14 +76,16 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
   </a>
 </div>
 
-###
-
 <h3 align="left">💻 Tech Stack</h3>
 
-###
-
+<!-- Skills -->
 <div align="center">
   
   <img src="https://skillicons.dev/icons?i=html,css,js,python,mongodb,mysql,sqlite,flask,github,git,docker,linux&perline=6" />
 
 </div>
+
+---
+
+<!-- Water Animation -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
