@@ -10,15 +10,16 @@
   <img src="img/andy.gif"/>
 </div>
 
+<br clear="both">
+
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&duration=3000&pause=500&color=AD42F7&center=true&width=435&height=50&lines=%F0%9F%91%8B+Hello+There;I+am+Mohd+Anas+Khan" alt="Typing SVG" />
   </a>
-  <hr>
 </div>
 
-<!-- Summary -->
+<!-- Summary Div-->
 <div align="center">
 
 I'm a self-taught passionate developer from Mumbai, India 🇮🇳
@@ -39,8 +40,9 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
 
 <hr>
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left">GitHub Stats</h3>
 
+<!-- Github Stats Div -->
 <div align="center">
 
   <!-- Github Readme Stats -->
@@ -54,14 +56,14 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
 <hr>
 
 <!-- Side Image -->
-<img align="right" height="125" src="img/side-img.gif"  />
+<img align="right" height="125" src="img/side_img.gif"  />
 
-<h3 align="left">🌐 Connect With Me</h3>
-
+<!-- Social Icons Div -->
 <div align="left">
+<h3>🌐 Connect With Me</h3>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/mohd-anas-khan-0a4114205/" target="_blank">
+  <a href="https://www.linkedin.com/in/kanas/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 
@@ -76,16 +78,14 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
   </a>
 </div>
 
-<h3 align="left">💻 Tech Stack</h3>
+<br clear='both'>
+
+<hr>
 
 <!-- Skills -->
+<h3 align="left">💻 Worked With</h3>
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mongodb,mysql,sqlite,flask,github,git,docker,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,bash,powershell,html,css,js,ts,tailwind,vercel,mongodb,mysql,sqlite,flask,fastapi,github,git,docker,linux,vscode,latex&perline=8" />
 
 </div>
-
----
-
-<!-- Water Animation -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
