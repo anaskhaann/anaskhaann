@@ -86,6 +86,10 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
 <h3 align="left">💻 Worked With</h3>
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,bash,powershell,html,css,js,ts,tailwind,vercel,mongodb,mysql,sqlite,flask,fastapi,github,git,docker,linux,vscode,latex&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,flask,fastapi,github,git&perline=8" />
+
+  <img src="https://www.readmecodegen.com/api/social-icon?name=numpy%2Cpandas%2Cstreamlit%2Clangchain%2Clanggraph%2Chuggingface%2Cuv%2Cjupyter&reverseBackground=true" alt="numpy-pandas-streamlit-langchain-langgraph-huggingface-uv-jupyter" />
+
+  <img src="https://skillicons.dev/icons?i=bash,powershell,html,css,js,ts,nodejs,tailwind,react,vercel,mongodb,mysql,sqlite,docker,linux,latex&perline=8" />
 
 </div>
