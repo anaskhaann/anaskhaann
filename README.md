@@ -5,13 +5,6 @@
 
 <br clear="both">
 
-<!-- Banner Image -->
-<div align="center">
-  <img src="img/andy.gif"/>
-</div>
-
-<br clear="both">
-
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -48,8 +41,8 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
   <!-- Github Readme Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=anaskhaann&hide_title=true&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&cache_seconds=43200" height="145" alt="stats graph"/>
 
-  <!-- Github Language Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anaskhaann&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true&custom_title=I%20Code%20In" height="145" alt="languages graph"/>
+  <!-- Github Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaskhaann&radius=16&theme=nightowl&area=true&order=5&hide_title=true&hide_border=true&cache_seconds=43200" height="145" alt="activity-graph graph"  />
 
 </div>
 
@@ -91,5 +84,4 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
   <img src="https://www.readmecodegen.com/api/social-icon?name=numpy%2Cpandas%2Cstreamlit%2Clangchain%2Clanggraph%2Chuggingface%2Cuv%2Cjupyter&reverseBackground=true" alt="numpy-pandas-streamlit-langchain-langgraph-huggingface-uv-jupyter" />
 
   <img src="https://skillicons.dev/icons?i=bash,powershell,html,css,js,ts,nodejs,tailwind,react,vercel,mongodb,mysql,sqlite,docker,linux,latex&perline=8" />
-
 </div>
