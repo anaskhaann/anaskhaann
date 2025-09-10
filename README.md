@@ -42,7 +42,7 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
   <img src="https://github-readme-stats.vercel.app/api?username=anaskhaann&hide_title=true&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&cache_seconds=43200" height="145" alt="stats graph"/>
 
   <!-- Github Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaskhaann&radius=16&theme=nightowl&area=true&order=5&hide_title=true&hide_border=true&cache_seconds=43200" height="145" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaskhaann&radius=16&theme=nightowl&area=true&order=5&hide_title=true&hide_border=true&cache_seconds=43200" height="150" alt="activity-graph graph"  />
 
 </div>
 
@@ -69,6 +69,7 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
   <a href="https://t.me/anaskhaann" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+  
 </div>
 
 <br clear='both'>
@@ -79,9 +80,8 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
 <h3 align="left">💻 Worked With</h3>
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,flask,fastapi,github,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,flask,fastapi,github,git,bash,powershell,html,css,js,ts,nodejs,tailwind,react,vercel,mongodb,linux&perline=10" />
 
-  <img src="https://www.readmecodegen.com/api/social-icon?name=numpy%2Cpandas%2Cstreamlit%2Clangchain%2Clanggraph%2Chuggingface%2Cuv%2Cjupyter&reverseBackground=true" alt="numpy-pandas-streamlit-langchain-langgraph-huggingface-uv-jupyter" />
-
-  <img src="https://skillicons.dev/icons?i=bash,powershell,html,css,js,ts,nodejs,tailwind,react,vercel,mongodb,mysql,sqlite,docker,linux,latex&perline=8" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=numpy%2Cpandas%2Cstreamlit%2Clangchain%2Clanggraph%2Chuggingface%2Cuv%2Cjupyter%2Cmysql%2Csqlite%2Cdocker&reverseBackground=true" alt="numpy-pandas-streamlit-langchain-langgraph-huggingface-uv-jupyter-mysql-sqlite-docker" />
+  
 </div>
