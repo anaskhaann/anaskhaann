@@ -25,11 +25,11 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
 
 <!-- - 🎥 I create coding tutorial videos on YouTube at [Channel Name](https://channel link) -->
 
-- 🌱 I’m currently learning **Gen AI, Agentic AI, LLM's.**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👨‍💻 Know More About Me @ [anaskhaann.vercel.app](https://anaskhaann.vercel.app/)
 
-- 💬 Ask me about **Python, SQL, Git/Github Etc.**
+- 💬 Ask me about **AI/ML/DL, Database, Git/Github Etc.**
 
 <hr>
 
@@ -53,23 +53,38 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
 
 <!-- Social Icons Div -->
 <div align="left">
-<h3>🌐 Connect With Me</h3>
+<h3>🌐 Connect With Me On</h3>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/kanas/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin" alt="linkedin" />
   </a>
 
   <!-- Twitter(X) -->
   <a href="https://x.com/khananas29" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=x" alt="x(twitter)" />
   </a>
 
   <!-- Telegram -->
   <a href="https://t.me/anaskhaann" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=telegram" alt="Telegram" />
   </a>
   
+  <!-- Reddit -->
+  <a href="https://www.reddit.com/user/anaskhaann/" target="_blank">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=reddit" alt="Reddit" />
+  </a>
+
+  <!-- Hugging Face -->
+  <a href="https://huggingface.co/anasskhannn" target="_blank">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=huggingface" alt="HuggingFace" />
+  </a>
+  
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/anaskhaann" target="_blank">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=kaggle" alt="Kaggle" />
+  </a>
+
 </div>
 
 <br clear='both'>
@@ -77,11 +92,11 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
 <hr>
 
 <!-- Skills -->
-<h3 align="left">💻 Worked With</h3>
+<h3 align="left">Worked With</h3>
 <div align="center">
   
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,flask,fastapi,github,git,bash,powershell,html,css,js,ts,nodejs,tailwind,react,vercel,mongodb,linux&perline=10" />
 
-  <img src="https://www.readmecodegen.com/api/social-icon?name=numpy%2Cpandas%2Cstreamlit%2Clangchain%2Clanggraph%2Chuggingface%2Cuv%2Cjupyter%2Cmysql%2Csqlite%2Cdocker&reverseBackground=true" alt="numpy-pandas-streamlit-langchain-langgraph-huggingface-uv-jupyter-mysql-sqlite-docker" />
+  <img src="https://www.readmecodegen.com/api/social-icon?name=numpy%2Cpandas%2Cstreamlit%2Clangchain%2Clanggraph%2Chuggingface%2Cuv%2Cjupyter%2Cmysql%2Csqlite%2Cdocker" alt="numpy-pandas-streamlit-langchain-langgraph-huggingface-uv-jupyter-mysql-sqlite-docker" />
   
 </div>
