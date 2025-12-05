@@ -15,21 +15,19 @@
 <!-- Summary Div-->
 <div align="center">
 
-I'm a self-taught passionate developer from Mumbai, India 🇮🇳
+A self-taught passionate developer from Mumbai, India 🇮🇳
 
 </div>
 
 <!-- Current Info -->
 
-- 🔭 Currently Exploring for a project idea to work on.
+<!-- - 🔭 Currently Exploring for a project idea to work on. -->
 
 <!-- - 🎥 I create coding tutorial videos on YouTube at [Channel Name](https://channel link) -->
 
-- 🌱 I’m currently learning **Agentic AI**
+- 🌱 I’m currently working as **AI & Automation Engineer**
 
 - 👨‍💻 Know More About Me @ [anaskhaann.vercel.app](https://anaskhaann.vercel.app/)
-
-- 💬 Ask me about **AI/ML/DL, Database, Git/Github Etc.**
 
 <hr>
 
@@ -61,7 +59,7 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
   </a>
 
   <!-- Twitter(X) -->
-  <a href="https://x.com/khananas29" target="_blank">
+  <a href="https://x.com/_khan_anas" target="_blank">
     <img src="https://www.readmecodegen.com/api/social-icon?name=x" alt="x(twitter)" />
   </a>
 
@@ -70,13 +68,8 @@ I'm a self-taught passionate developer from Mumbai, India 🇮🇳
     <img src="https://www.readmecodegen.com/api/social-icon?name=telegram" alt="Telegram" />
   </a>
   
-  <!-- Reddit -->
-  <a href="https://www.reddit.com/user/anaskhaann/" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=reddit" alt="Reddit" />
-  </a>
-
   <!-- Hugging Face -->
-  <a href="https://huggingface.co/anasskhannn" target="_blank">
+  <a href="https://huggingface.co/anaskhaann" target="_blank">
     <img src="https://www.readmecodegen.com/api/social-icon?name=huggingface" alt="HuggingFace" />
   </a>
   
