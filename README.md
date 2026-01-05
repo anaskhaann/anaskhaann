@@ -37,7 +37,7 @@ A self-taught passionate developer from Mumbai, India 🇮🇳
 <div align="center">
 
   <!-- Github Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=anaskhaann&hide_title=true&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&cache_seconds=43200" height="145" alt="stats graph"/>
+  <img src="https://github-readme-stats-rho-one-79.vercel.app/api?username=anaskhaann&hide_title=true&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&cache_seconds=43200" height="145" alt="stats graph"/>
 
   <!-- Github Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaskhaann&radius=16&theme=nightowl&area=true&order=5&hide_title=true&hide_border=true&cache_seconds=43200" height="150" alt="activity-graph graph"  />
