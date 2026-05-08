@@ -25,9 +25,9 @@ A self-taught passionate developer from Mumbai, India 🇮🇳
 
 <!-- - 🎥 I create coding tutorial videos on YouTube at [Channel Name](https://channel link) -->
 
-- 🌱 I’m currently working as **AI & Automation Engineer**
+- 🌱 I’m currently working as **Full Stack-AI Engineer**
 
-- 👨‍💻 Know More About Me @ [anaskhaann.vercel.app](https://anaskhaann.vercel.app/)
+- 👨‍💻 Know More About Me @ [anaskhan.tech](https://anaskhan.tech/)
 
 <hr>
 
@@ -63,11 +63,11 @@ A self-taught passionate developer from Mumbai, India 🇮🇳
     <img src="https://www.readmecodegen.com/api/social-icon?name=x" alt="x(twitter)" />
   </a>
 
-  <!-- Telegram -->
+  <!-- Telegram
   <a href="https://t.me/anaskhaann" target="_blank">
     <img src="https://www.readmecodegen.com/api/social-icon?name=telegram" alt="Telegram" />
   </a>
-  
+   -->
   <!-- Hugging Face -->
   <a href="https://huggingface.co/anaskhaann" target="_blank">
     <img src="https://www.readmecodegen.com/api/social-icon?name=huggingface" alt="HuggingFace" />
