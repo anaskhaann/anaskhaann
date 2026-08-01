@@ -1,4 +1,5 @@
 <!--Profile View Count -->
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=anaskhaann&color=blueviolet" alt="Profile Views" />
 </div>
@@ -27,22 +28,7 @@ A self-taught passionate developer from Mumbai, India 🇮🇳
 
 - 🌱 I’m currently working as **Full Stack-AI Engineer**
 
-- 👨‍💻 Know More About Me @ [anaskhan.tech](https://anaskhan.tech/)
-
-<hr>
-
-<h3 align="left">GitHub Stats</h3>
-
-<!-- Github Stats Div -->
-<div align="center">
-
-  <!-- Github Readme Stats -->
-  <img src="https://github-readme-stats-rho-one-79.vercel.app/api?username=anaskhaann&hide_title=true&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&cache_seconds=43200" height="145" alt="stats graph"/>
-
-  <!-- Github Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaskhaann&radius=16&theme=nightowl&area=true&order=5&hide_title=true&hide_border=true&cache_seconds=43200" height="150" alt="activity-graph graph"  />
-
-</div>
+- 👨‍💻 Know More About Me @ [anas.is-a.dev](https://anas.is-a.dev/)
 
 <hr>
 
@@ -51,7 +37,7 @@ A self-taught passionate developer from Mumbai, India 🇮🇳
 
 <!-- Social Icons Div -->
 <div align="left">
-<h3>🌐 Connect With Me On</h3>
+<h3>Quick Connect</h3>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/kanas/" target="_blank">
@@ -63,11 +49,6 @@ A self-taught passionate developer from Mumbai, India 🇮🇳
     <img src="https://www.readmecodegen.com/api/social-icon?name=x" alt="x(twitter)" />
   </a>
 
-  <!-- Telegram
-  <a href="https://t.me/anaskhaann" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=telegram" alt="Telegram" />
-  </a>
-   -->
   <!-- Hugging Face -->
   <a href="https://huggingface.co/anaskhaann" target="_blank">
     <img src="https://www.readmecodegen.com/api/social-icon?name=huggingface" alt="HuggingFace" />
@@ -77,19 +58,26 @@ A self-taught passionate developer from Mumbai, India 🇮🇳
   <a href="https://www.kaggle.com/anaskhaann" target="_blank">
     <img src="https://www.readmecodegen.com/api/social-icon?name=kaggle" alt="Kaggle" />
   </a>
-
 </div>
-
-<br clear='both'>
 
 <hr>
 
-<!-- Skills -->
-<h3 align="left">Worked With</h3>
-<div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,flask,fastapi,github,git,bash,powershell,html,css,js,ts,nodejs,tailwind,react,vercel,mongodb,linux&perline=10" />
+<!-- Summary for All visuals -->
+<details>
+<summary >VISUALS</summary>
 
-  <img src="https://www.readmecodegen.com/api/social-icon?name=numpy%2Cpandas%2Cstreamlit%2Clangchain%2Clanggraph%2Chuggingface%2Cuv%2Cjupyter%2Cmysql%2Csqlite%2Cdocker" alt="numpy-pandas-streamlit-langchain-langgraph-huggingface-uv-jupyter-mysql-sqlite-docker" />
-  
+<h3 align="left">GitHub Stats</h3>
+
+<!-- Github Stats Div -->
+<div align="center">
+
+  <!-- Github Readme Stats -->
+
+  <img src="https://github-stats-extended.vercel.app/api?username=anaskhaann&rank_icon=github&hide_title=true&show_icons=true&hide_border=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=43200" height="150" alt="stats graph"/>
+
+  <!-- Github Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaskhaann&radius=16&theme=merko&area=true&order=5&hide_title=true&hide_border=true&cache_seconds=43200" height="150" alt="activity-graph graph"  />
+
 </div>
+
+</details>
