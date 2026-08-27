@@ -1,0 +1,46 @@
+name: README build
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "30 18 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+
+      - name: Update image files
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          USER_NAME: ${{ secrets.USER_NAME }}
+        run: uv run today.py
+
+      - name: Check for changes
+        run: |
+          git add .
+          if git diff --cached --exit-code; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+      - name: Configure Git
+        run: |
+          git config --global user.email "github-actions-bot@anaskhaann.github.io"
+          git config --global user.name "anaskhaann/GitHub-Actions-Bot"
+
+      - name: Commit and push changes
+        run: |
+          git commit -m "Updated stats" -a || echo "Nothing to commit"
+          git push origin main || echo "Push failed - maybe no changes?"

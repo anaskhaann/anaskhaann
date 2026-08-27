@@ -6,6 +6,18 @@
 
 <br clear="both">
 
+<a href="https://github.com/anaskhaann/anaskhaann">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anaskhaann/anaskhaann/main/dark_mode.svg">
+    <img alt="anaskhaann's GitHub Profile README" src="https://raw.githubusercontent.com/anaskhaann/anaskhaann/main/light_mode.svg">
+  </picture>
+</a>
+
+---
+
+<!-- Summary for All visuals -->
+<details>
+<summary >VISUALS</summary>
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -21,10 +33,6 @@ A self-taught passionate developer from Mumbai, India 🇮🇳
 </div>
 
 <!-- Current Info -->
-
-<!-- - 🔭 Currently Exploring for a project idea to work on. -->
-
-<!-- - 🎥 I create coding tutorial videos on YouTube at [Channel Name](https://channel link) -->
 
 - 🌱 I’m currently working as **Full Stack-AI Engineer**
 
@@ -62,10 +70,6 @@ A self-taught passionate developer from Mumbai, India 🇮🇳
 
 <hr>
 
-<!-- Summary for All visuals -->
-<details>
-<summary >VISUALS</summary>
-
 <h3 align="left">GitHub Stats</h3>
 
 <!-- Github Stats Div -->
@@ -79,5 +83,4 @@ A self-taught passionate developer from Mumbai, India 🇮🇳
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaskhaann&radius=16&theme=merko&area=true&order=5&hide_title=true&hide_border=true&cache_seconds=43200" height="150" alt="activity-graph graph"  />
 
 </div>
-
 </details>
