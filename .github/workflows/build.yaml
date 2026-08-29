@@ -37,8 +37,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.email "github-actions-bot@anaskhaann.github.io"
-          git config --global user.name "anaskhaann/GitHub-Actions-Bot"
+          git config --global user.email "119879801+anaskhaann@users.noreply.github.com"
+          git config --global user.name "anaskhaann/GH-Actions-Bot"
 
       - name: Commit and push changes
         run: |
