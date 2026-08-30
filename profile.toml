@@ -1,0 +1,54 @@
+# ============================================================================
+# SINGLE SOURCE OF TRUTH for the personal info shown on the profile cards.
+#
+# Both dark_mode.svg and light_mode.svg get their personalized text from here
+# via `uv run today.py --profile-only` (or automatically on every CI run).
+# Edit the values below, then run the sync — you should NEVER hand-edit the
+# personal text inside the .svg files themselves.
+#
+#   Local preview (no token, no network):   uv run today.py --profile-only
+#   Auto-sync in CI:                        push to main (build.yaml runs)
+# ============================================================================
+
+title = "anas.is-a.dev"
+
+# The `[about]` and `[contact]` values are written with a two-space inline
+# indent after their label (Name:  X). Do NOT include that indent below —
+# today.py adds it for you.
+[about]
+name = "Mohd Anas Khan (@anaskhaann)"
+location = "Mumbai, India"
+major = "Artificial Intelligence and Data Science"
+ide = "VS Code, OpenCode, Pi, NeoVim"
+os = "Windows 11, Android, Arch Linux"
+
+# Each `[[tools]]` block is one card row: `text` is the main line, `tag` is
+# the small #tag on the right. Add/remove rows freely — order is preserved.
+[[tools]]
+text = "Python, JS/TS"
+tag = "#Langs"
+
+[[tools]]
+text = "Pandas, Sklearn, PyTorch, LangChain"
+tag = "#AI/ML"
+
+[[tools]]
+text = "React, Node.js, Express, FastAPI"
+tag = "#Web"
+
+[[tools]]
+text = "MongoDB, PostgreSQL, MySQL, VectorDBs"
+tag = "#DB"
+
+[[tools]]
+text = "Git/GitHub, Docker, AWS, HuggingFace, RAG"
+tag = "#Tech"
+
+[[tools]]
+text = "English, Hindi, Urdu"
+tag = "#Real"
+
+[contact]
+email = "anaskhaann.work@gmail.com"
+linkedin = "kanas"
+discord = "khan._.anas"
