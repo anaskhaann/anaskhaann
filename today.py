@@ -13,8 +13,10 @@ Two jobs:
      PRs, lines of code) and write them into the id'd <tspan id="stat-*">.
 
 Run locally:   uv run today.py
-               reads .env for ACCESS_TOKEN/user_name(), syncs both profile AND stats
-Run (profile only, no token/network):   uv run today.py --profile-only
+               reads .env for ACCESS_TOKEN/USER_NAME, syncs both profile AND stats
+Run (profile only — skips the GitHub API):   uv run today.py --profile-only
+               still needs ACCESS_TOKEN/USER_NAME present (.env or env vars),
+               but makes no network calls; just syncs profile.toml into both SVGs.
 Run in CI:     .github/workflows/build.yaml
 
 Debug helper:  uv run today.py --list-tspans dark_mode.svg
@@ -54,36 +56,12 @@ def load_dotenv(path=".env"):
 
 load_dotenv()
 
-
-# Token-dependent values are resolved lazily (via the getters below) so that
-# `--profile-only` can run WITHOUT ACCESS_TOKEN/user_name() — it never needs the
-# GitHub API. It's only the network/stats path that requires the .env.
 # Fine-grained personal access token with All Repositories access:
 # Repository permissions: read:Contents, read:Commit statuses, read:Issues,
 #                         read:Metadata, read:Pull requests
-def _require_env(name):
-    try:
-        return os.environ[name]
-    except KeyError:
-        raise SystemExit(
-            f"Missing '{name}' in environment/.env — needed for the GitHub stats"
-            " sync. Run `uv run today.py --profile-only` to update profile text "
-            "without the API."
-        ) from None
-
-
-def github_headers():
-    return {"Authorization": "Bearer " + _require_env("ACCESS_TOKEN")}
-
-
-def user_name():
-    return _require_env("user_name()")
-
-
-def cache_file():
-    return "cache/" + hashlib.sha256(user_name().encode("utf-8")).hexdigest() + ".txt"
-
-
+HEADERS = {"Authorization": "Bearer " + os.environ["ACCESS_TOKEN"]}
+USER_NAME = os.environ["USER_NAME"]
+CACHE_FILE = "cache/" + hashlib.sha256(USER_NAME.encode("utf-8")).hexdigest() + ".txt"
 COMMENT_SIZE = 7  # comment lines at the top of the cache file
 SVG_FILES = ("dark_mode.svg", "light_mode.svg")
 
@@ -104,7 +82,7 @@ def simple_request(func_name, query, variables):
     request = requests.post(
         "https://api.github.com/graphql",
         json={"query": query, "variables": variables},
-        headers=github_headers(),
+        headers=HEADERS,
     )
     if request.status_code == 200:
         return request
@@ -163,7 +141,7 @@ def repo_loc_via_contributors(owner, repo_name):
         if attempt:
             time.sleep(2)
         try:
-            request = requests.get(url, headers=github_headers(), timeout=15)
+            request = requests.get(url, headers=HEADERS, timeout=15)
         except requests.exceptions.ConnectionError:
             continue  # transient network error, retry
         if request.status_code == 202:
@@ -172,7 +150,7 @@ def repo_loc_via_contributors(owner, repo_name):
             return 0, 0, 0
         for contributor in request.json():
             author = contributor.get("author") if contributor else None
-            if author and author.get("login") == user_name():
+            if author and author.get("login") == USER_NAME:
                 weeks = contributor.get("weeks", [])
                 return (
                     sum(w["a"] for w in weeks),
@@ -220,7 +198,7 @@ def loc_query(
     }"""
     variables = {
         "owner_affiliation": owner_affiliation,
-        "login": user_name(),
+        "login": USER_NAME,
         "cursor": cursor,
     }
     request = simple_request(loc_query.__name__, query, variables)
@@ -239,7 +217,7 @@ def loc_query(
 def commit_counter(comment_size):
     """Total of my commits across all cached repos."""
     total_commits = 0
-    with open(cache_file(), "r") as f:
+    with open(CACHE_FILE, "r") as f:
         data = f.readlines()
     for line in data[comment_size:]:
         total_commits += int(line.split()[2])
@@ -273,7 +251,7 @@ def graph_repos_stars(count_type, owner_affiliation, cursor=None):
     }"""
     variables = {
         "owner_affiliation": owner_affiliation,
-        "login": user_name(),
+        "login": USER_NAME,
         "cursor": cursor,
     }
     request = simple_request(graph_repos_stars.__name__, query, variables)
@@ -310,7 +288,7 @@ def stats_getter():
             }
         }
     }"""
-    request = simple_request(stats_getter.__name__, query, {"login": user_name()})
+    request = simple_request(stats_getter.__name__, query, {"login": USER_NAME})
     data = request.json()["data"]["user"]
     return {
         "prs": int(data["pullRequests"]["totalCount"]),
@@ -326,21 +304,21 @@ def cache_builder(edges, comment_size, force_cache, loc_add=0, loc_del=0):
     Cache line format: hash total_commits my_commits loc_added loc_deleted"""
     cached = True
     try:
-        with open(cache_file(), "r") as f:
+        with open(CACHE_FILE, "r") as f:
             data = f.readlines()
     except FileNotFoundError:
-        os.makedirs(os.path.dirname(cache_file()), exist_ok=True)
+        os.makedirs(os.path.dirname(CACHE_FILE), exist_ok=True)
         data = [
             "This line is a comment block. Write whatever you want here.\n"
         ] * comment_size
-        with open(cache_file(), "w") as f:
+        with open(CACHE_FILE, "w") as f:
             f.writelines(data)
 
     if len(data) - comment_size != len(edges) or force_cache:
         cached = False
         print("  Cache miss: flushing cache and recalculating LOC for all repos...")
-        flush_cache(edges, cache_file(), comment_size)
-        with open(cache_file(), "r") as f:
+        flush_cache(edges, CACHE_FILE, comment_size)
+        with open(CACHE_FILE, "r") as f:
             data = f.readlines()
 
     cache_comment = data[:comment_size]
@@ -363,10 +341,10 @@ def cache_builder(edges, comment_size, force_cache, loc_add=0, loc_del=0):
             except TypeError:  # empty repo
                 data[index] = repo_hash + " 0 0 0 0\n"
         if (index + 1) % 10 == 0:  # checkpoint so a cancelled run loses little
-            with open(cache_file(), "w") as f:
+            with open(CACHE_FILE, "w") as f:
                 f.writelines(cache_comment)
                 f.writelines(data)
-    with open(cache_file(), "w") as f:
+    with open(CACHE_FILE, "w") as f:
         f.writelines(cache_comment)
         f.writelines(data)
     for line in data:
@@ -460,7 +438,7 @@ if __name__ == "__main__":
         sys.exit(0)
 
     print("Calculation times:")
-    user_data, user_time = perf_counter(user_getter, user_name())
+    user_data, user_time = perf_counter(user_getter, USER_NAME)
     OWNER_ID, acc_date = user_data
     formatter("account data", user_time)
 

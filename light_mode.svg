@@ -31,30 +31,30 @@
 <!-- ══════════ AUTO · ABOUT — managed by profile.toml (synced by today.py) ══════════
      Do NOT hand-edit the id'd valueColor tspans below; edit profile.toml and re-sync.
      Rows are 20px apart (y=70,90,110,130,150). -->
-<text x="380" y="70" fill="#c9d1d9"><tspan class="keyColor">Name:</tspan><tspan class="valueColor" id="profile-name">  Mohd Anas Khan (@anaskhaann)</tspan></text>
-<text x="380" y="90" fill="#c9d1d9"><tspan class="keyColor">Location:</tspan><tspan class="valueColor" id="profile-location">  Mumbai, India</tspan></text>
-<text x="380" y="110" fill="#c9d1d9"><tspan class="keyColor">Major:</tspan><tspan class="valueColor" id="profile-major">  Artificial Intelligence and Data Science</tspan></text>
-<text x="380" y="130" fill="#c9d1d9"><tspan class="keyColor">IDE/Harness:</tspan><tspan class="valueColor" id="profile-ide">  VS Code, OpenCode, Pi, NeoVim</tspan></text>
-<text x="380" y="150" fill="#c9d1d9"><tspan class="keyColor">OS:</tspan><tspan class="valueColor" id="profile-os">  Windows 11, Android, Arch Linux</tspan></text>
+<text x="380" y="70" fill="#24292f"><tspan class="keyColor">Name:</tspan><tspan class="valueColor" id="profile-name">  Mohd Anas Khan (@anaskhaann)</tspan></text>
+<text x="380" y="90" fill="#24292f"><tspan class="keyColor">Location:</tspan><tspan class="valueColor" id="profile-location">  Mumbai, India</tspan></text>
+<text x="380" y="110" fill="#24292f"><tspan class="keyColor">Major:</tspan><tspan class="valueColor" id="profile-major">  Artificial Intelligence and Data Science</tspan></text>
+<text x="380" y="130" fill="#24292f"><tspan class="keyColor">IDE/Harness:</tspan><tspan class="valueColor" id="profile-ide">  VS Code, OpenCode, Pi, NeoVim</tspan></text>
+<text x="380" y="150" fill="#24292f"><tspan class="keyColor">OS:</tspan><tspan class="valueColor" id="profile-os">  Windows 11, Android, Arch Linux</tspan></text>
 <!-- ══════════ AUTO · LANGUAGES & TOOLS — managed by profile.toml ([[tools]]) ══════════
      Each row = valueColor tspan + commentColor '#tag' tspan.
      The number of rows is driven by profile.toml; rows are 20px apart (y=220..320).
      Leave the ids (profile-tool-*, profile-tag-*) alone. -->
-<text x="380" y="185" fill="#c9d1d9"><tspan class="keyColor">Languages and Tools</tspan></text>
-<text x="380" y="200" fill="#c9d1d9"><tspan class="commentColor">———————————————————</tspan></text>
-<text x="380" y="220" fill="#c9d1d9"><tspan class="valueColor" id="profile-tool-1">Python, JS/TS</tspan><tspan class="commentColor" id="profile-tag-1">  #Langs</tspan></text>
-<text x="380" y="240" fill="#c9d1d9"><tspan class="valueColor" id="profile-tool-2">Pandas, Sklearn, PyTorch, LangChain</tspan><tspan class="commentColor" id="profile-tag-2">  #AI/ML</tspan></text>
-<text x="380" y="260" fill="#c9d1d9"><tspan class="valueColor" id="profile-tool-3">React, Node.js, Express, FastAPI</tspan><tspan class="commentColor" id="profile-tag-3">  #Web</tspan></text>
-<text x="380" y="280" fill="#c9d1d9"><tspan class="valueColor" id="profile-tool-4">MongoDB, PostgreSQL, MySQL, VectorDBs</tspan><tspan class="commentColor" id="profile-tag-4">  #DB</tspan></text>
-<text x="380" y="300" fill="#c9d1d9"><tspan class="valueColor" id="profile-tool-5">Git/GitHub, Docker, AWS, HuggingFace, RAG</tspan><tspan class="commentColor" id="profile-tag-5">  #Tech</tspan></text>
-<text x="380" y="320" fill="#c9d1d9"><tspan class="valueColor" id="profile-tool-6">English, Hindi, Urdu</tspan><tspan class="commentColor" id="profile-tag-6">  #Real</tspan></text>
+<text x="380" y="185" fill="#24292f"><tspan class="keyColor">Languages and Tools</tspan></text>
+<text x="380" y="200" fill="#24292f"><tspan class="commentColor">———————————————————</tspan></text>
+<text x="380" y="220" fill="#24292f"><tspan class="valueColor" id="profile-tool-1">Python, JS/TS</tspan><tspan class="commentColor" id="profile-tag-1">  #Langs</tspan></text>
+<text x="380" y="240" fill="#24292f"><tspan class="valueColor" id="profile-tool-2">Pandas, Sklearn, PyTorch, LangChain</tspan><tspan class="commentColor" id="profile-tag-2">  #AI/ML</tspan></text>
+<text x="380" y="260" fill="#24292f"><tspan class="valueColor" id="profile-tool-3">React, Node.js, Express, FastAPI</tspan><tspan class="commentColor" id="profile-tag-3">  #Web</tspan></text>
+<text x="380" y="280" fill="#24292f"><tspan class="valueColor" id="profile-tool-4">MongoDB, PostgreSQL, MySQL, VectorDBs</tspan><tspan class="commentColor" id="profile-tag-4">  #DB</tspan></text>
+<text x="380" y="300" fill="#24292f"><tspan class="valueColor" id="profile-tool-5">Git/GitHub, Docker, AWS, HuggingFace, RAG</tspan><tspan class="commentColor" id="profile-tag-5">  #Tech</tspan></text>
+<text x="380" y="320" fill="#24292f"><tspan class="valueColor" id="profile-tool-6">English, Hindi, Urdu</tspan><tspan class="commentColor" id="profile-tag-6">  #Real</tspan></text>
 <!-- ══════════ AUTO · CONTACT — managed by profile.toml ([contact]) ══════════
      Do NOT hand-edit the id'd valueColor tspans below; edit profile.toml and re-sync. -->
-<text x="20" y="360" fill="#c9d1d9"><tspan class="keyColor">Contact</tspan></text>
-<text x="20" y="380" fill="#c9d1d9"><tspan class="commentColor">———————</tspan></text>
-<text x="20" y="400" fill="#c9d1d9"><tspan class="keyColor">Email:</tspan><tspan class="valueColor" id="profile-email">  anaskhaann.work@gmail.com</tspan></text>
-<text x="20" y="420" fill="#c9d1d9"><tspan class="keyColor">LinkedIn:</tspan><tspan class="valueColor" id="profile-linkedin">  kanas</tspan></text>
-<text x="20" y="440" fill="#c9d1d9"><tspan class="keyColor">Discord:</tspan><tspan class="valueColor" id="profile-discord">  khan._.anas</tspan></text>
+<text x="20" y="360" fill="#24292f"><tspan class="keyColor">Contact</tspan></text>
+<text x="20" y="380" fill="#24292f"><tspan class="commentColor">———————</tspan></text>
+<text x="20" y="400" fill="#24292f"><tspan class="keyColor">Email:</tspan><tspan class="valueColor" id="profile-email">  anaskhaann.work@gmail.com</tspan></text>
+<text x="20" y="420" fill="#24292f"><tspan class="keyColor">LinkedIn:</tspan><tspan class="valueColor" id="profile-linkedin">  kanas</tspan></text>
+<text x="20" y="440" fill="#24292f"><tspan class="keyColor">Discord:</tspan><tspan class="valueColor" id="profile-discord">  khan._.anas</tspan></text>
 <!-- ══════════ AUTO · GITHUB STATS — DO NOT EDIT ══════════
      The id'd tspans (stat-*) are overwritten by today.py on every run.
      Edit only the labels/separators if you like; leave the ids alone. -->

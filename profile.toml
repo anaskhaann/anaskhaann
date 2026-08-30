@@ -6,7 +6,7 @@
 # Edit the values below, then run the sync — you should NEVER hand-edit the
 # personal text inside the .svg files themselves.
 #
-#   Local preview (no token, no network):   uv run today.py --profile-only
+#   Local preview  :                        uv run today.py --profile-only
 #   Auto-sync in CI:                        push to main (build.yaml runs)
 # ============================================================================
 
