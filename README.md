@@ -41,7 +41,7 @@ A self-taught passionate developer from Mumbai, India 🇮🇳
 <hr>
 
 <!-- Side Image -->
-<img align="right" height="125" src="img/side_img.gif"  />
+<img align="right" height="125" src="assets/side_img.gif"  />
 
 <!-- Social Icons Div -->
 <div align="left">
