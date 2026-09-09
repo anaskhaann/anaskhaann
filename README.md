@@ -77,10 +77,10 @@ A self-taught passionate developer from Mumbai, India 🇮🇳
 
   <!-- Github Readme Stats -->
 
-  <img src="https://github-stats-extended.vercel.app/api?username=anaskhaann&rank_icon=github&hide_title=true&show_icons=true&hide_border=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=43200" height="150" alt="stats graph"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=anaskhaann&hide_title=true&show_icons=true&hide_border=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=43200" height="150" alt="stats graph"/>
 
   <!-- Github Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaskhaann&radius=16&theme=merko&area=true&order=5&hide_title=true&hide_border=true&cache_seconds=43200" height="150" alt="activity-graph graph"  />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaskhaann&radius=16&theme=merko&area=true&order=5&hide_title=true&hide_border=true&cache_seconds=43200" height="150" alt="activity-graph graph"  /> -->
 
 </div>
 </details>
