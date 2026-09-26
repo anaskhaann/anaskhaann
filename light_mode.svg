@@ -60,7 +60,7 @@
      Edit only the labels/separators if you like; leave the ids alone. -->
 <text x="380" y="360" fill="#24292f"><tspan class="keyColor">GitHub Stats</tspan></text>
 <text x="380" y="380" fill="#24292f"><tspan class="commentColor">————————————</tspan></text>
-<text x="380" y="400" fill="#24292f"><tspan class="keyColor">Repos</tspan>: <tspan class="valueColor" id="stat-repos">62</tspan> { <tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor" id="stat-contrib">65</tspan> } | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor" id="stat-stars">5</tspan></text>
-<text x="380" y="420" fill="#24292f"><tspan class="keyColor">Commits</tspan>: <tspan class="valueColor" id="stat-commits">3822</tspan> | <tspan class="keyColor">Issues</tspan>: <tspan class="valueColor" id="stat-issues">26</tspan> | <tspan class="keyColor">PRs</tspan>: <tspan class="valueColor" id="stat-prs">34</tspan></text>
-<text x="380" y="440" fill="#24292f"><tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor" id="stat-loc">2,981,273</tspan> ( <tspan class="addColor" id="stat-loc-add">3,774,460++</tspan>, <tspan class="delColor" id="stat-loc-del">793,187--</tspan> )</text>
+<text x="380" y="400" fill="#24292f"><tspan class="keyColor">Repos</tspan>: <tspan class="valueColor" id="stat-repos">63</tspan> { <tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor" id="stat-contrib">66</tspan> } | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor" id="stat-stars">5</tspan></text>
+<text x="380" y="420" fill="#24292f"><tspan class="keyColor">Commits</tspan>: <tspan class="valueColor" id="stat-commits">4319</tspan> | <tspan class="keyColor">Issues</tspan>: <tspan class="valueColor" id="stat-issues">26</tspan> | <tspan class="keyColor">PRs</tspan>: <tspan class="valueColor" id="stat-prs">34</tspan></text>
+<text x="380" y="440" fill="#24292f"><tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor" id="stat-loc">3,030,982</tspan> ( <tspan class="addColor" id="stat-loc-add">3,963,998++</tspan>, <tspan class="delColor" id="stat-loc-del">933,016--</tspan> )</text>
 </svg>
